@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="oo_zadania_java" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/oo_test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/oo_test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Firma.h" />
+		<Unit filename="include/Forum.h" />
+		<Unit filename="include/Human.h" />
+		<Unit filename="include/Lista.h" />
+		<Unit filename="include/ListaTab.h" />
+		<Unit filename="include/MyNumber.h" />
+		<Unit filename="include/Pracownik.h" />
+		<Unit filename="include/Prostokat.h" />
+		<Unit filename="include/Punkt2D.h" />
+		<Unit filename="include/Punkt3D.h" />
+		<Unit filename="include/User.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Firma.cpp" />
+		<Unit filename="src/Forum.cpp" />
+		<Unit filename="src/Human.cpp" />
+		<Unit filename="src/Lista.cpp" />
+		<Unit filename="src/ListaTab.cpp" />
+		<Unit filename="src/MyNumber.cpp" />
+		<Unit filename="src/Pracownik.cpp" />
+		<Unit filename="src/Prostokat.cpp" />
+		<Unit filename="src/Punkt2D.cpp" />
+		<Unit filename="src/Punkt3D.cpp" />
+		<Unit filename="src/User.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

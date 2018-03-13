@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1516464979 source:c:\users\andrzej\documents\projekty_cpp\oo_test\main.cpp
+	<iostream>
+	"Human.h"
+	"Prostokat.h"
+	"MyNumber.h"
+	"Pracownik.h"
+	"Firma.h"
+
+1515952693 c:\users\andrzej\documents\projekty_cpp\oo_test\include\human.h
+	<iostream>
+
+1515952897 source:c:\users\andrzej\documents\projekty_cpp\oo_test\src\human.cpp
+	"Human.h"
+
+1515954408 source:c:\users\andrzej\documents\projekty_cpp\oo_test\src\prostokat.cpp
+	"Prostokat.h"
+	<math.h>
+
+1515953874 c:\users\andrzej\documents\projekty_cpp\oo_test\include\prostokat.h
+	<iostream>
+
+1516049570 source:c:\users\andrzej\documents\projekty_cpp\oo_test\src\mynumber.cpp
+	"MyNumber.h"
+
+1516049197 c:\users\andrzej\documents\projekty_cpp\oo_test\include\mynumber.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<cstdlib>
+
+1516462676 source:c:\users\andrzej\documents\projekty_cpp\oo_test\src\firma.cpp
+	"Firma.h"
+
+1516464670 c:\users\andrzej\documents\projekty_cpp\oo_test\include\firma.h
+	<cstddef>
+	<iostream>
+	"Pracownik.h"
+
+1516463546 source:c:\users\andrzej\documents\projekty_cpp\oo_test\src\pracownik.cpp
+	"Pracownik.h"
+
+1516463315 c:\users\andrzej\documents\projekty_cpp\oo_test\include\pracownik.h
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1517514942 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\main.cpp
+	<iostream>
+	"Human.h"
+	"Prostokat.h"
+	"MyNumber.h"
+	"Pracownik.h"
+	"Firma.h"
+	"Forum.h"
+	"Lista.h"
+	"Punkt2D.h"
+	"Punkt3D.h"
+	"ListaTab.h"
+
+1515952693 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\human.h
+	<iostream>
+
+1515953874 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\prostokat.h
+	<iostream>
+
+1516049197 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\mynumber.h
+	<iostream>
+	<math.h>
+	<time.h>
+	<cstdlib>
+
+1516463315 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\pracownik.h
+	<iostream>
+	<time.h>
+	<cstdlib>
+
+1516466886 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\firma.h
+	<iostream>
+	"Pracownik.h"
+
+1516462676 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\firma.cpp
+	"Firma.h"
+
+1515952897 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\human.cpp
+	"Human.h"
+
+1516049570 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\mynumber.cpp
+	"MyNumber.h"
+
+1516463546 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\pracownik.cpp
+	"Pracownik.h"
+
+1515954408 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\prostokat.cpp
+	"Prostokat.h"
+	<math.h>
+
+1516529527 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\forum.cpp
+	"Forum.h"
+
+1516529564 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\forum.h
+	<iostream>
+	"User.h"
+	<vector>
+
+1516527284 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\user.cpp
+	"User.h"
+
+1516527242 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\user.h
+	<iostream>
+
+1516640006 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\lista.cpp
+	"Lista.h"
+
+1516640006 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\lista.h
+	<iostream>
+	<vector>
+
+1516641510 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\punkt2d.cpp
+	"Punkt2D.h"
+
+1516649814 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\punkt2d.h
+	<iostream>
+
+1516725377 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\punkt3d.cpp
+	"Punkt3D.h"
+
+1516725405 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\punkt3d.h
+	<iostream>
+	<Punkt2D.h>
+
+1517514901 c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\include\listatab.h
+	<iostream>
+
+1517603685 source:c:\users\andrzej\documents\projekty_cpp\oo_zadania_java\src\listatab.cpp
+	"ListaTab.h"
+
